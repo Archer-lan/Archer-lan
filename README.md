@@ -1,12 +1,4 @@
 # 我是 Archer-lan
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Archer-lan&label=访问量&color=0e75b6&style=flat" 
-    alt="Archer-lan" 
-  />
-</p>
-
 ---
 
 ### 💫 关于我
@@ -73,18 +65,6 @@
 
 ---
 
-### 🏆 GitHub 成就
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=Archer-lan&theme=radical&no-frame=true&column=4" 
-      alt="Archer-lan's Trophies" 
-    />
-  </a>
-</p>
-
----
 
 ### 📈 活跃度 & 数据统计
 
@@ -99,6 +79,10 @@
   />
 </p>
 
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Archer-lan&color=0e75b6&style=flat-square&abbreviated=true&v=2" />
+</p>
 ---
 
 ### 🤝 联系我
