@@ -11,23 +11,18 @@
 
 ### 💫 关于我
 
-我目前是 **前端工程师**，。专注于构建高性能 Web 应用与沉浸式 3D 交互体验。
+我目前是 **前端工程师**，专注于构建高性能 Web 应用与沉浸式 3D 交互体验。
 
 - 🔭 **当前方向**：跨端 UI 组件库架构设计 & WebGL 性能优化  
 - 🎨 **技术兴趣**：Web 图形学（Three.js / WebGL）、AI Agent（LangChain / RAG）
 
 ---
 
-### 🏆 GitHub 成就
+### 🌟 Bilibili
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=Archer-lan&theme=radical&no-frame=true&column=4" 
-      alt="Archer-lan's Trophies" 
-    />
-  </a>
-</p>
+- **H5 多版本 UI 组件库**：基于 Monorepo 架构设计，兼容 Vue 2 与 Vue 3  
+- **APM 页面监控 & AI 诊断系统**：构建前端监控平台，实现基于 AI 的异常分析能力  
+- **侵权投诉系统重构**：重构侵权投诉体系  
 
 ---
 
@@ -78,28 +73,31 @@
 
 ---
 
-### 📈 活跃度 & 数据统计
+### 🏆 GitHub 成就
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Archer-lan&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-    alt="Archer-lan's Stats" 
-    height="180" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archer-lan&layout=compact&theme=radical&hide_border=true" 
-    alt="Archer-lan's Top Langs" 
-    height="180" 
-  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Archer-lan&theme=radical&no-frame=true&column=4" 
+      alt="Archer-lan's Trophies" 
+    />
+  </a>
 </p>
 
 ---
 
-### 🌟 Bilibili
+### 📈 活跃度 & 数据统计
 
-- **H5 多版本 UI 组件库**：基于 Monorepo 架构设计，兼容 Vue 2 与 Vue 3  
-- **APM 页面监控 & AI 诊断系统**：构建前端监控平台，实现基于 AI 的异常分析能力
-- **侵权投诉系统重构**：重构侵权投诉体系
+<p align="center">
+  <img 
+    src="https://stats.justsong.cn/api/github?username=Archer-lan&show_icons=true" 
+    height="180" 
+  />
+  <img 
+    src="https://stats.justsong.cn/api/github/top-langs/?username=Archer-lan" 
+    height="180" 
+  />
+</p>
 
 ---
 
