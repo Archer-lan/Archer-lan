@@ -41,7 +41,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br />
-      Vue 2 / Vue 3
+      Vue
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br />
@@ -67,7 +67,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br />
-      Java / Spring
+      Java
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />
@@ -95,11 +95,11 @@
 
 ---
 
-### 🌟 项目经验（哔哩哔哩）
+### 🌟 Bilibili
 
 - **H5 多版本 UI 组件库**：基于 Monorepo 架构设计，兼容 Vue 2 与 Vue 3  
-- **APM 监控 & AI 诊断系统**：构建前端监控平台，实现基于 AI 的异常分析能力  
-- **Web 图形优化**：优化复杂业务场景中的 WebUI 动效与 3D 渲染性能  
+- **APM 页面监控 & AI 诊断系统**：构建前端监控平台，实现基于 AI 的异常分析能力
+- **侵权投诉系统重构**：重构侵权投诉体系
 
 ---
 
